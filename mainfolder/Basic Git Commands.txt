@@ -1,1 +1,3 @@
 git config
+"creating new branch and check it out by using git in a termial"
+git checkout-b newBranchName
